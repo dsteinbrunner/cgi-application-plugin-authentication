@@ -35,7 +35,7 @@ Module::Build->new(
     meta_merge => {
         resources => {
             repository =>
-'http://github.com/cees/cgi-application-plugin-authentication/tree',
+'http://github.com/cees/cgi-application-plugin-authentication',
         },
         keywords => [ 'cgiapp', 'Titanium', 'authentication' ],
     },
